@@ -1,56 +1,3 @@
-*{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-}
-body{
-    background-color: #bcb082;
-}
-/* ---------The Content----------- */
-.design{
-    position: relative;
-    width: 100%;
-    height: 95vh;
-}
-.logo{
-    width:60px;
-    
-}
-/* ---Navigators---*/
-nav{
-    background-color: #39393e;
-    display: flex;
-    width: 100%;
-    margin: auto;
-    padding: 10px 0;
-    align-items: center;
-    justify-content: space-between;
-}
-nav img{
-    margin-left: 30px;
-}
-nav ul{
-    margin-right: 80px;
-}
-nav ul li{
-    display: inline-block;
-    list-style: none;
-    margin: 10px 20px;
-}
-nav ul li a{
-    font-family: 'Anonymous Pro', monospace;
-    text-decoration: none;
-    color: #dadada;
-    font-size: 130%;
-    font-weight: bold;
-}
-nav ul li a:hover{
-    color:#bcb082;
-}
-nav ul li a:active{
-    color:#92abd2
-    ;
-}
 .sideContent1{
 	margin: 10% 10% 5% 10%;
     padding: 10px;
@@ -103,7 +50,7 @@ nav ul li a:active{
 }
 #side2{
 	float: right;
-	margin-top: -800px;
+	margin-top: -950px;
 	width: 50%;
 }
 #table1{
@@ -136,34 +83,4 @@ nav ul li a:active{
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-
-
-
-/* ----Footer---- */
-footer{
-    background-color: #39393e;
-    bottom:0;
-    width:100%;
-    margin: auto;
-    padding: 20px 0;
-    align-items: center;
-    text-align: center;
-}
-footer p{
-    color:#dadada;
-}
-/* ---------Footer--------- */
-footer{
-    background-color: #39393e;
-    bottom:0;
-    width:100%;
-    margin: auto;
-    padding: 20px 0;
-    align-items: center;
-    text-align: center;
-}
-footer p{
-    color:#dadada;
 }
