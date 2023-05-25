@@ -51,13 +51,94 @@ nav ul li a:active{
     color:#92abd2
     ;
 }
-/* ---------Profile Images---------- */
-.pics{
-   max-width: 50%;
-    position: absolute;
-    top:25%;
-    right:5px;
+.sideContent1{
+	margin: 10% 10% 5% 10%;
+    padding: 10px;
+	width: 80%;
+	height: auto;
+	background-color: #39393e;
 }
+#img-pic{
+	width: 80%;
+	height: auto;
+	margin: 40px 50px 10px 50px;
+	max-width: 100%;
+}
+#table3{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+#name{
+	color: #e4e4e4;
+	font-family: 'Anonymous Pro', monospace;
+	font-size: 2.2vw;
+	border-bottom: 2px solid #e4e4e4;
+}
+#tdata1_2{
+	color: #e4e4e4;
+	font-family: 'Cabin', sans-serif;
+	font-size: 1.4vw;
+	text-align: justify;
+	border-bottom: 2px solid #e4e4e4;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#tdata1_3{
+	color: #e4e4e4;
+	font-family: 'Cabin', sans-serif;
+	font-size: 1.4vw;	
+	text-align: justify;
+	padding-top: 25px;
+	text-indent: 20px;
+	padding-bottom: 36px;
+}
+#per-info-text{
+	font-family: 'Anonymous Pro', monospace;
+	font-size: 50px;
+	color: #39393e;
+	font-weight: bold;
+	text-align: center;
+}
+#side2{
+	float: right;
+	margin-top: -800px;
+	width: 50%;
+}
+#table1{
+	margin-top: 70px;
+	width: 90%;
+}
+#trow1{
+	background-color: #8b8b8b;
+}
+#tdata1{
+	font-family: 'Anonymous Pro', monospace;
+	font-size: 2.2vw;
+	font-weight: bold;
+	padding-left: 10px;
+	color: #39393e;
+}
+#tdata2{
+	font-family: 'Cabin', sans-serif;
+	font-size: 1.4vw;
+	padding: 20px 10px 10px 10px;	
+	color: #dfe3e5;
+    
+}
+#table2{
+	margin-top: 20px;
+	width: 90%;
+	margin-bottom: 8px;
+}
+#table4{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
 
 
 /* ----Footer---- */
